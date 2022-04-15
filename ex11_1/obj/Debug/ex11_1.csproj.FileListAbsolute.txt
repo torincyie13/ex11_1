@@ -1,0 +1,13 @@
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\bin\Debug\ex11_1.exe.config
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\bin\Debug\ex11_1.exe
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\bin\Debug\ex11_1.pdb
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\obj\Debug\ex11_1.csproj.AssemblyReference.cache
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\obj\Debug\ex11_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\obj\Debug\ex11_1.frmExport.resources
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\obj\Debug\ex11_1.Properties.Resources.resources
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\obj\Debug\ex11_1.csproj.GenerateResource.cache
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\obj\Debug\ex11_1.csproj.CoreCompileInputs.cache
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\obj\Debug\ex11_1.exe
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\obj\Debug\ex11_1.pdb
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\bin\Debug\SQLPhoneDB.mdf
+C:\Users\thawkins022713\source\repos\ex11_1\ex11_1\bin\Debug\SQLPhoneDB_log.ldf
